@@ -6,8 +6,6 @@ This is a procedurally generated vase in the program Grasshopper written in pyth
 
 This program procedurally generates a vase by using Grasshoppers existing Library for 3d shape generation. The algorithm works by generating a random number of points then creating a NURBS curve, an offset surface function will be used to add a thickness to the vase for 3d printing.
 
-## When your project is completed, you will then add the following sections:
-
 ## Timeline
 
 Road map for this project.
